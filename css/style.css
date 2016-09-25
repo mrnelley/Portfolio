@@ -747,8 +747,13 @@ b i:last-child {
     display: block;
     /*margin-left: 30%;*/
 }
-video {
+.video-image {
   margin-left: 28%;
+}
+
+.project-image {
+  margin: 0;
+  float: left;
 }
 
 .portfolio_item .portfolio_item_hover {
