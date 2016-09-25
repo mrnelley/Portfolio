@@ -745,6 +745,10 @@ b i:last-child {
     position: relative;
     overflow: hidden;
     display: block;
+    /*margin-left: 30%;*/
+}
+video {
+  margin-left: 28%;
 }
 
 .portfolio_item .portfolio_item_hover {
@@ -836,6 +840,11 @@ b i:last-child {
     padding-bottom: 0 !important;
     padding-top: 55px;
 }
+
+/*.project {
+  text-align: center;
+  padding left: 50%;
+}*/
 
 
 /* footer
