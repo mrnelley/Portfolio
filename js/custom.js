@@ -152,4 +152,8 @@ $(window).load(function () {
 
     // Start
     loop();
+
+    // function sendMail(){
+    //   window.open('mailto:contact@parnellkelley.com?subject=subject&body=body');
+    // }
 });

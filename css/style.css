@@ -691,7 +691,11 @@ b i:last-child {
         transform: translateZ(-20px) rotateX(-90deg);
     }
 }
-
+.resume {
+  background: rgb(255, 0, 0);
+  border: 0;
+  color: white;
+}
 
 /* portfolio section
 ==================================================*/
